@@ -1,4 +1,4 @@
-![Banner](/images/header.jpg ':class=header-image-full-width')
+![Header image](/images/header.jpg ':class=header-image-full-width')
 
 # Your name here
 
@@ -28,6 +28,8 @@
 
 </div>
 </div>
+
+---
 
 This example Docsify-This Student Portfolio Template is based on the [Markdown Portfolio](https://github.com/thoresonjd/markdown-portfolio-template) template by [@thoresonjd](https://github.com/thoresonjd), as is originally described below:
 
