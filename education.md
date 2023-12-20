@@ -35,4 +35,4 @@ GPA: 0.0
 </tr>
 </table>
 
-[Back to main page](README.md)
+[« Back to main page](README.md)
