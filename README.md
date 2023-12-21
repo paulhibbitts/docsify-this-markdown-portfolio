@@ -1,4 +1,4 @@
-| 🛑 | **This is a testing-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter.** |
+| 🛑 | **This is a testing-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter-template.** |
 |---|:--|
 
 ![Header image](/images/header.jpg ':class=header-image-full-width')
