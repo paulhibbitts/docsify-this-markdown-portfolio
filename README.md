@@ -42,3 +42,26 @@ Everyone is encouraged to fork, copy, or reference this repository and customize
 If you are interested in seeing what a Markdown portfolio may look like, you are welcome to reference [my portfolio](https://github.com/thoresonjd/markdown-portfolio).
 
 If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
+
+How to Use
+---
+
+1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
+
+2. Choose the name for your new repository to contain the files and then tap **Create repository**
+
+3. View the **README.md** Markdown file in your newly created repository and copy it's URL
+
+4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+
+5. Select the page options you want (e.g. Font) and tap the **View as Standalone Page** button to view your Markdown file as a web page for sharing or embedding
+
+You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
+
+Docsify-This Examples
+---
+
+[Docsify-This Markdown Starter Portfolio Template](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md), displayed by Docsify-This as a:  
+* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md#/ "Docsify-This One Page Article")  
+* [Standalone Page using the Merriweather font](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif "Docsify-This Markdown Starter Portfolio Template")
+* [Standalone Page using the Merriweather font and red links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000#/ "Docsify-This Markdown Starter Portfolio Template")
