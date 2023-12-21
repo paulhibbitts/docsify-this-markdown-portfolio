@@ -46,6 +46,9 @@ If you are interested in seeing what a Markdown portfolio may look like, you are
 
 If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
 
+<details>
+<summary>"Show how-to-use instructions and examples"</summary>
+
 # Docsify-This Markdown Portfolio Starter Template
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
@@ -82,3 +85,5 @@ Docsify-This Examples
 * [Standalone Site with automatic light/dark theme switching](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter/main&homepage=README.md&dark-mode=true "Docsify-This One Page Article")  
 * [Standalone Site using the Merriweather font](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif "Docsify-This Markdown Starter Portfolio Template")
 * [Standalone Site using the Merriweather font and red links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter/main&homepage=README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000#/ "Docsify-This Markdown Starter Portfolio Template")
+
+</details>
