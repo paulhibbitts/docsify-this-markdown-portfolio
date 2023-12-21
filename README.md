@@ -61,7 +61,7 @@ You can further customize the appearance of your web page by tapping on the **Sh
 Docsify-This Examples
 ---
 
-[Docsify-This Markdown Starter Portfolio Template](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md), displayed by Docsify-This as a:  
-* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md#/ "Docsify-This One Page Article")  
+[Docsify-This Markdown Starter Portfolio Template](https://github.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template), displayed by Docsify-This as a:  
+* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md "Docsify-This One Page Article")  
 * [Standalone Page using the Merriweather font](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif "Docsify-This Markdown Starter Portfolio Template")
 * [Standalone Page using the Merriweather font and red links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter-template/main&homepage=README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000#/ "Docsify-This Markdown Starter Portfolio Template")
