@@ -47,7 +47,7 @@ If you are interested in seeing what a Markdown portfolio may look like, you are
 If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
 
 <details>
-<summary>"Show how-to-use instructions and examples"</summary>
+<summary>Show how-to-use instructions and examples</summary>
 
 # Docsify-This Markdown Portfolio Starter Template
 
