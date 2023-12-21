@@ -1,4 +1,4 @@
-![Banner](/images/header.jpg ':class=header-image-full-width')
+![Header image](/images/header.jpg ':class=header-image-full-width')
 
 [« Back to main page](README.md)
 
