@@ -6,7 +6,7 @@
 
 # Your name here
 
-<div class="row reverse-columns">
+<div class="row">
 <div class="column">
 
 ![Headshot](images/photo.jpg)
