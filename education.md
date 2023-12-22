@@ -35,4 +35,10 @@ GPA: 0.0
 </tr>
 </table>
 
+- [Experience](experience.md)
+- [Projects](projects.md)
+- [Skills & Qualifications](qualifications.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+- . . .
+
 [« Back to main page](README.md)
