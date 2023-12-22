@@ -49,4 +49,9 @@ GPA: 0.0
 </tr>
 </table>
 
+- [Education](education.md)
+- [Projects](projects.md)
+- [Skills & Qualifications](qualifications.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+
 [« Back to main page](README.md)
