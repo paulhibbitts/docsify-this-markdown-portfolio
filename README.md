@@ -6,7 +6,12 @@
 
 # Your name here
 
-<div class="row">
+<div class="row reverse-columns">
+<div class="column">
+
+![Headshot](images/photo.jpg)
+
+</div>
 <div class="column">
 
 **Information**  
@@ -24,11 +29,6 @@
 - [Skills & Qualifications](qualifications.md)
 - [Honors & Extracurriculars](extracurriculars.md)
 - . . .
-
-</div>
-<div class="column">
-
-![Headshot](images/photo.jpg)
 
 </div>
 </div>
