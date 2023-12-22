@@ -39,6 +39,5 @@ GPA: 0.0
 - [Projects](projects.md)
 - [Skills & Qualifications](qualifications.md)
 - [Honors & Extracurriculars](extracurriculars.md)
-- . . .
 
 [« Back to main page](README.md)
