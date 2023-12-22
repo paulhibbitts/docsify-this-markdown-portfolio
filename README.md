@@ -33,7 +33,7 @@
 </div>
 </div>
 
-<!-- Everything below this line can be deleted -->
+<!-- This line and everything below it can be deleted -->
 
 ---
 
