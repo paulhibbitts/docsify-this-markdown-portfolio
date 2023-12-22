@@ -9,6 +9,11 @@
 <div class="row reverse-columns">
 <div class="column">
 
+![Headshot](images/photo.jpg)
+
+</div>
+<div class="column">
+
 **Information**  
 
 - your@email.com
@@ -24,11 +29,6 @@
 - [Skills & Qualifications](qualifications.md)
 - [Honors & Extracurriculars](extracurriculars.md)
 - . . .
-
-</div>
-<div class="column">
-
-![Headshot](images/photo.jpg)  
 
 </div>
 </div>
