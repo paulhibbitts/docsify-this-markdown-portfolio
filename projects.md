@@ -22,4 +22,9 @@
 
 ---
 
+- [Education](education.md)
+- [Experience](experience.md)
+- [Skills & Qualifications](qualifications.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+
 [« Back to main page](README.md)

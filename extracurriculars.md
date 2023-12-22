@@ -13,4 +13,9 @@
 
 ---
 
+- [Education](education.md)
+- [Experience](experience.md)
+- [Projects](projects.md)
+- [Skills & Qualifications](qualifications.md)
+
 [« Back to main page](README.md)

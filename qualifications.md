@@ -26,4 +26,9 @@ Communication, collaboration, adaptability, problem-solving, critical thinking
 
 ---
 
+- [Education](education.md)
+- [Experience](experience.md)
+- [Projects](projects.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+
 [« Back to main page](README.md)
