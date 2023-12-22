@@ -9,7 +9,7 @@
 <div class="row reverse-columns">
 <div class="column">
 
-![Headshot](images/photo.jpg ':no-zoom')
+![Headshot](images/photo.jpg)
 
 </div>
 <div class="column">
