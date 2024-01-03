@@ -2,14 +2,14 @@
 
 <br />
 
-![Header image](/images/header.jpg ':class=header-image-full-width :no-zoom')
+![Header image](/images/header-color-1.jpg ':class=header-image-full-width :no-zoom')
 
 # Your name here
 
 <div class="row reverse-columns">
 <div class="column">
 
-![Headshot](images/photo.jpg)
+![Headshot](images/photo-color.jpg)
 
 </div>
 <div class="column">
