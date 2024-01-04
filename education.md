@@ -1,4 +1,4 @@
-![Header image](https://picsum.photos/id/140/1280/267?blur ':class=header-image-full-width :no-zoom')
+![Header image](images/140-1280x267-blur_5.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
