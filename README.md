@@ -2,7 +2,7 @@
 
 <br />
 
-![Header image](https://picsum.photos/1280/375 ':class=header-image-full-width :no-zoom')
+![Header image](/images/header-color.jpg ':class=header-image-full-width :no-zoom')
 
 # Your name here
 
