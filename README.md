@@ -2,7 +2,7 @@
 
 <br />
 
-![Header image](/images/header-color-1.jpg ':class=header-image-full-width :no-zoom')
+![Header image](/images/header-color.jpg ':class=header-image-full-width :no-zoom')
 
 # Your name here
 

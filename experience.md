@@ -1,4 +1,4 @@
-![Header image](/images/header-color-3.jpg ':class=header-image-full-width :no-zoom')
+![Header image](/images/header-color-2.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
