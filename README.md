@@ -90,4 +90,6 @@ Docsify-This Examples
 * [Standalone Site with zoomable images](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-markdown-portfolio-starter/main&homepage=README.md&zoom-images=true "Docsify-This Markdown Starter Portfolio Template")
 * [Standalone Site with 'Edit this Page' links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-markdown-portfolio-starter/main&homepage=README.md&edit-link=https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter/blob/main/README.md "Docsify-This Markdown Starter Portfolio Template")  
 
+_Random and included placeholder images courtesy of [Lorem Picsum]( https://picsum.photos/)._
+
 </div>
