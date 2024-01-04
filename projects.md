@@ -1,4 +1,4 @@
-![Header image](https://picsum.photos//id/107/1280/267?blur ':class=header-image-full-width :no-zoom')
+![Header image](https://picsum.photos/id/107/1280/267?blur ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
