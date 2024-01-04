@@ -9,7 +9,7 @@
 <div class="row reverse-columns">
 <div class="column">
 
-![Headshot](https://picsum.photos/400)
+![Headshot](https://picsum.photos/400?grayscale)
 
 </div>
 <div class="column">
