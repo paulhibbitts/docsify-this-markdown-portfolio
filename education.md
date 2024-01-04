@@ -1,4 +1,4 @@
-![Header image](https://picsum.photos/1280/250 ':class=header-image-full-width :no-zoom')
+![Header image](/images/header-color-1.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
