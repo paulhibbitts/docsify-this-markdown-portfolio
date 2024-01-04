@@ -2,14 +2,14 @@
 
 <br />
 
-![Header image](/images/header-color.jpg ':class=header-image-full-width :no-zoom')
+![Header image](https://picsum.photos/1280/375 ':class=header-image-full-width :no-zoom')
 
 # Your name here
 
 <div class="row reverse-columns">
 <div class="column">
 
-![Headshot](images/photo-color.jpg)
+![Headshot](https://picsum.photos/400)
 
 </div>
 <div class="column">
