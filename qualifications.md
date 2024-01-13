@@ -1,4 +1,4 @@
-![Header image](images/134-1280x267-blur_5.jpg ':class=header-image-full-width :no-zoom')
+![Header image](images/charlie-foster-Osl4I3IS9Cw-unsplash.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 

@@ -1,4 +1,4 @@
-![Header image](images/158-1280x267-blur_5.jpg ':class=header-image-full-width :no-zoom')
+![Header image](images/daniel-robert-dinu-MRxD-J9-4ps-unsplash.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 

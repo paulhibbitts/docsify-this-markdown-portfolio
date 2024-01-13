@@ -1,4 +1,4 @@
-![Header image](images/107-1280x267-blur_5.jpg ':class=header-image-full-width :no-zoom')
+![Header image](images/lukas-schweizer-9VWOr22LhVI-unsplash ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
